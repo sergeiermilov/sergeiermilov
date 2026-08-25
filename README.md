@@ -2,7 +2,7 @@
 
 I'm a Web and Graphic Designer, Frontend-developer, PHP and WordPress enthusiast :slightly_smiling_face:
 
-My website - <https://uxuimedia.github.io>
+My website - <https://uxui.media> (<https://uxuimedia.github.io>)
 
 ![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey)
 
@@ -25,7 +25,7 @@ My website - <https://uxuimedia.github.io>
   <tr>
     <td>:globe_with_meridians:</td>
     <td><b>Portfolio</b></td>
-    <td><a href="https://uxuimedia.github.io" target="_blank">uxuimedia.github.io</a></td>
+    <td><https://uxui.media> (<a href="https://uxuimedia.github.io" target="_blank">uxuimedia.github.io</a>)</td>
   </tr>
   <tr>
     <td>:email:</td>
