@@ -2,7 +2,7 @@
 
 I'm a Web and Graphic Designer, Frontend-developer, PHP and WordPress enthusiast :slightly_smiling_face:
 
-My website - <https://uxui.media> (<https://uxuimedia.github.io>)
+Official website - <https://sergeiermilov.me>
 
 ![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey)
 
