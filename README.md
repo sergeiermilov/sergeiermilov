@@ -10,7 +10,7 @@ Official website - <https://sergeiermilov.me>
   <tr>
     <td>:office:</td>
     <td><b>Working on</b></td>
-    <td><a href="https://spoto.app" target="_blank">spoto.app</a>, <a href="https://probeach.ru" target="_blank">probeach.ru</a></td>
+    <td><a href="https://spoto.app" target="_blank">spoto.app</a> | <a href="https://probeach.me" target="_blank">probeach.me</a> | <a href="https://hiking.me" target="_blank">hiking.me</a> | <a href="https://uxui.media" target="_blank">uxui.media</a></td>
   </tr>
   <tr>
     <td>:open_book:</td>
@@ -24,8 +24,8 @@ Official website - <https://sergeiermilov.me>
   </tr>
   <tr>
     <td>:globe_with_meridians:</td>
-    <td><b>Portfolio</b></td>
-    <td><a href="https://uxui.media" target="_blank">uxui.media</a> (<a href="https://uxuimedia.github.io" target="_blank">uxuimedia.github.io</a>)</td>
+    <td><b>Products</b></td>
+    <td><a href="https://sergeiermilov.me" target="_blank">sergeiermilov.me</a></td>
   </tr>
   <tr>
     <td>:email:</td>
