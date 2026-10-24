@@ -30,8 +30,6 @@ Official website - <https://sergeiermilov.me>
   <tr>
     <td>:email:</td>
     <td><b>Contact</b></td>
-    <td>sergeiuxui@gmail.com</td>
+    <td>sergei.m.ermilov@gmail.com</td>
   </tr>
 </table>
-
-Мой профиль на WordPress.org: [sergeiermilov](https://profiles.wordpress.org/sergeiermilov/)
