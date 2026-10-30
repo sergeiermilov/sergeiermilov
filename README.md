@@ -2,9 +2,9 @@
 
 I'm a Web and Graphic Designer, Frontend-developer, PHP and WordPress enthusiast :slightly_smiling_face:
 
-Official website - <https://sergeiermilov.me>
+Official website - <https://sergeiermilov.com>
 
-![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=sergeiermilov&color=lightgrey)
 
 <table>
   <tr>
@@ -25,7 +25,7 @@ Official website - <https://sergeiermilov.me>
   <tr>
     <td>:globe_with_meridians:</td>
     <td><b>Products</b></td>
-    <td><a href="https://sergeiermilov.me" target="_blank">sergeiermilov.me</a></td>
+    <td><a href="https://sergeiermilov.com" target="_blank">sergeiermilov.com</a></td>
   </tr>
   <tr>
     <td>:email:</td>
